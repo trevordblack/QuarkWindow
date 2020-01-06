@@ -1,6 +1,5 @@
 
 #include "quarkWindow.h"
-#include <GL/gl.h>
 #include <chrono>
 
 int main() {
